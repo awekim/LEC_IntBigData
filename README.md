@@ -1,4 +1,5 @@
-# LEC_IntBigData
+# Introduction to Big Data
+### Made by Keungoui Kim (Ph.D.)
 Remote repository for Introduction to Big Data
 
 - You can find sample files from the link below.
